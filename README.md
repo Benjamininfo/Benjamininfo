@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://banner-benjamin-fuentes.my.canva.site/" alt="Banner de Benjamin">
+  <img src="https://banner-benjamin-fuentes.my.canva.site" alt="Banner de Benjamin">
 </p>
 
 ---
