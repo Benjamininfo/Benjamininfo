@@ -8,10 +8,13 @@
 
 ---
 
-**Sobre mi**
+## **Sobre mi**
+
+- Estudiante de Ingenieria en Informatica
+- Apasinado a la informatica
+- Me gusta el Desarrollo y Arquitectura de Software
 
 ## Desarrollador Web | Ingeniero Informático  
-
 ### Tecnologías y Lenguajes que manejo:
 
 <p align="center">
