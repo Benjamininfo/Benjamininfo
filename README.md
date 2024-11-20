@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x300?text=Tu+Banner+Personalizado+Aquí" alt="Banner de Benjamin">
+  <img src="" alt="Banner de Benjamin">
 </p>
 
 ---
