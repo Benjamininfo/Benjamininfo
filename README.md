@@ -8,6 +8,8 @@
 
 ---
 
+**About me**
+
 ## Desarrollador Web | Ingeniero Informático  
 
 ### Tecnologías y Lenguajes que manejo:
