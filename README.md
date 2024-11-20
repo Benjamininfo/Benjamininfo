@@ -1,6 +1,4 @@
-<div aling="center">
-  <h1 aling="center"># Hola, Soy Benjamin 👋</h1>
-</div>
+<h1 align="center"><b>Hola, soy Benjamin Fuentes </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ---
 
