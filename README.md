@@ -1,4 +1,6 @@
-# Hola, Soy Benjamin 👋
+<div aling="center">
+  <h1 aling="center"># Hola, Soy Benjamin 👋</h1>
+</div>
 
 ---
 
