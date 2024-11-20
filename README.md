@@ -8,7 +8,7 @@
 
 ---
 
-**About me**
+**Sobre mi**
 
 ## Desarrollador Web | Ingeniero Informático  
 
