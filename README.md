@@ -12,8 +12,7 @@
 
 - Egresado de Ingenieria en Informatica 🤓 (En proceso de titulacion 🎓).
 - Apasionado a la informatica 😎.
-- Me gusta el Desarrollo y Arquitectura de Software 👌.
-- Desarrollador software 💻.
+- Me gusta el Desarrollo y Arquitectura de Software 💻.
 - Abierto a cualquier oferta sobre informatica 🙂.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias</b>
