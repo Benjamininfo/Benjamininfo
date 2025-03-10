@@ -10,7 +10,7 @@
 
 ## **🧮 Sobre mi**
 
-- Estudiante de Ingenieria en Informatica 🤓.
+- Egresado de Ingenieria en Informatica 🤓 (En proceso de titulacion 🎓).
 - Apasionado a la informatica 😎.
 - Me gusta el Desarrollo y Arquitectura de Software 👌.
 - Desarrollador software 💻.
