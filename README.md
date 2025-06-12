@@ -54,7 +54,7 @@
     
   <br>
   
-  - **Leaning**:
+  - **Learning**:
     
     [![learning](https://skillicons.dev/icons?i=laravel,php,azure,redux,tailwind,nextjs)](https://skillicons.dev)
 
