@@ -10,8 +10,9 @@
 
 ## **🧮 Sobre mi**
 
-- Egresado de Ingenieria en Informatica 🤓 (En proceso de titulacion 🎓).
-- Apasionado a la informatica 😎.
+- Ingeniero en Informatica 🤓.
+- Apasionado a la informatica y a las ciencias computacionales 😎.
+- Me gusta el Desarrollo y Arquitectura de Software 💻.
 - Me gusta el Desarrollo y Arquitectura de Software 💻.
 - Abierto a cualquier oferta sobre informatica 🙂.
 
@@ -45,6 +46,12 @@
   - **Softwares and Tools**:
     
     [![tools](https://skillicons.dev/icons?i=postman,selenium,visualstudio,idea,androidstudio,docker,kubernetes,git,github)](https://skillicons.dev)
+  
+  <br>
+
+  - **DevOps CI/CD**:
+    
+    [![tools](https://skillicons.dev/icons?i=jenkins,terraform,grafana,prometheus)](https://skillicons.dev)
 
   <br>
   
