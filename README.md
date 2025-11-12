@@ -45,13 +45,13 @@
 
   - **Softwares and Tools**:
     
-    [![tools](https://skillicons.dev/icons?i=postman,selenium,visualstudio,idea,androidstudio,docker,kubernetes,git,github)](https://skillicons.dev)
+    [![tools](https://skillicons.dev/icons?i=postman,selenium,visualstudio,idea,androidstudio,git,github)](https://skillicons.dev)
   
   <br>
 
   - **DevOps CI/CD**:
     
-    [![tools](https://skillicons.dev/icons?i=jenkins,terraform,grafana,prometheus)](https://skillicons.dev)
+    [![tools](https://skillicons.dev/icons?i=jenkins,grafana,prometheus,docker,kubernetes)](https://skillicons.dev)
 
   <br>
   
@@ -63,7 +63,7 @@
   
   - **Learning**:
     
-    [![learning](https://skillicons.dev/icons?i=laravel,php,azure,redux,tailwind,nextjs)](https://skillicons.dev)
+    [![learning](https://skillicons.dev/icons?i=laravel,php,azure,redux,tailwind,nextjs,ansible,terraform)](https://skillicons.dev)
 
   <br>
 
