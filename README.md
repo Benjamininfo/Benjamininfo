@@ -51,7 +51,7 @@
 
   - **DevOps CI/CD**:
     
-    [![tools](https://skillicons.dev/icons?i=jenkins,grafana,prometheus,docker,kubernetes)](https://skillicons.dev)
+    [![tools](https://skillicons.dev/icons?i=jenkins,grafana,prometheus,docker,kubernetes,terraform)](https://skillicons.dev)
 
   <br>
   
@@ -63,7 +63,7 @@
   
   - **Learning**:
     
-    [![learning](https://skillicons.dev/icons?i=laravel,php,azure,redux,tailwind,nextjs,ansible,terraform)](https://skillicons.dev)
+    [![learning](https://skillicons.dev/icons?i=laravel,php,azure,redux,tailwind,nextjs,ansible,ruby,rails)](https://skillicons.dev)
 
   <br>
 
